@@ -1,2 +1,2 @@
-# Sistema_Bancario_B-sico
+# Sistema_Bancario
 Criação de sistema bancário.
